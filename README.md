@@ -2,8 +2,6 @@
 
 A music player website similar to **Spotify**, built with **HTML**, **Tailwind CSS**, and **React**. This project allows users to play audio songs online with an intuitive and responsive user interface.
 
-[GitHub Repository](https://github.com/shreyash-07/Spotify-Clone)
-
 ---
 
 ## Features
